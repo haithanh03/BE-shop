@@ -113,7 +113,7 @@ export class AuthController extends Controller {
       data: {
         detail: {
           username: 'Hai Duong',
-          email: 'dohaiduong@gmail.com',
+          email: 'nguyenhaithanh@gmail.com',
           password:
             '0xc888c9ce9e098d5864d3ded6ebcc140a12142263bace3a23a36f9905f12bd64a',
           role: 0,

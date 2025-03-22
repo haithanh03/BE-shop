@@ -34,7 +34,7 @@ export class UserController extends Controller {
       data: {
         _id: '65defc93ce29856a1d3d3687',
         username: 'Hai Duong',
-        email: 'dohaiduong@gmail.com',
+        email: 'nguyenhaithanh@gmail.com',
         password:
           '0xc888c9ce9e098d5864d3ded6ebcc140a12142263bace3a23a36f9905f12bd64a',
         role: 0,
@@ -97,7 +97,7 @@ export class UserController extends Controller {
         {
           _id: '65defc93ce29856a1d3d3687',
           username: 'Hai Duong',
-          email: 'dohaiduong@gmail.com',
+          email: 'nguyenhaithanh@gmail.com',
           password:
             '0xc888c9ce9e098d5864d3ded6ebcc140a12142263bace3a23a36f9905f12bd64a',
           role: 0,
@@ -151,7 +151,7 @@ export class UserController extends Controller {
       data: {
         _id: '65defc93ce29856a1d3d3687',
         username: 'Hai Duong',
-        email: 'dohaiduong@gmail.com',
+        email: 'nguyenhaithanh@gmail.com',
         password:
           '0xc888c9ce9e098d5864d3ded6ebcc140a12142263bace3a23a36f9905f12bd64a',
         role: 0,
